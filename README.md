@@ -34,11 +34,3 @@ Passionate about backend and web development, focused on building efficient solu
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
-
-| Logo | Curso / Descrição | Certificado |
-|------|--------------------|------------|
-| <img src="assets/logo-python.png" width="60"/> | **Python Completo**<br>Fundamentos, estruturas de dados, modularização e manipulação de arquivos. | [📄 Download](certificados/python.pdf) |
-| <img src="assets/logo-c.png" width="60"/> | **Programação em C**<br>Estruturas, alocação dinâmica, ponteiros e desenvolvimento de sistemas. | [📄 Download](certificados/c.pdf) |
-| <img src="assets/logo-react.png" width="60"/> | **React e Frontend Moderno**<br>Componentização com JSX e estilização com CSS. | [📄 Download](certificados/react.pdf) |
-
----
