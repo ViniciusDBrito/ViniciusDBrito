@@ -39,8 +39,8 @@ Passionate about backend and web development, focused on building efficient solu
 
 | Institution | Course & Description | Certificate |
 |-------------|---------------------|------------|
-| <img src="assets/logo-python.png" width="60"/> | **Python Programming – Complete Course**<br>Fundamentals, data structures, modularization, and file handling. | [Download PDF](certificados/python.pdf) |
-| <img src="assets/logo-c.png" width="60"/> | **C Programming**<br>Structures, dynamic memory allocation, pointers, and system development. | [Download PDF](certificados/c.pdf) |
-| <img src="assets/logo-react.png" width="60"/> | **React & Modern Frontend Development**<br>Component-based architecture using JSX and CSS styling. | [Download PDF](certificados/react.pdf) |
+| <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Instituto_Federal_de_S%C3%A3o_Paulo_-_Marca_Vertical_2015.svg/1280px-Instituto_Federal_de_S%C3%A3o_Paulo_-_Marca_Vertical_2015.svg.png)" width="50"/> | **Python Programming – Complete Course**<br>Fundamentals, data structures, modularization, and file handling. | <a href="certificados/python.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35"/></a> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50"/> | **C Programming**<br>Structures, dynamic memory allocation, pointers, and system development. | <a href="certificados/c.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35"/></a> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50"/> | **React & Modern Frontend Development**<br>Component-based architecture using JSX and CSS styling. | <a href="certificados/react.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35"/></a> |
 
 ---
