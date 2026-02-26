@@ -37,10 +37,7 @@ Passionate about backend and web development, focused on building efficient solu
 
 ## 📜 Courses & Certifications
 
-| Institution | Course & Description | Certificate |
-|-------------|---------------------|------------|
-| <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Instituto_Federal_de_S%C3%A3o_Paulo_-_Marca_Vertical_2015.svg/1280px-Instituto_Federal_de_S%C3%A3o_Paulo_-_Marca_Vertical_2015.svg.png)" width="50"/> | **Python Programming – Complete Course**<br>Fundamentals, data structures, modularization, and file handling. | <a href="certificados/python.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35"/></a> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50"/> | **C Programming**<br>Structures, dynamic memory allocation, pointers, and system development. | <a href="certificados/c.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35"/></a> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50"/> | **React & Modern Frontend Development**<br>Component-based architecture using JSX and CSS styling. | <a href="certificados/react.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="35"/></a> |
+| Institution | Course & Description | Status | Certificate |
+|-------------|---------------------| --------- | ------------|
+| <div align="center"><img src="https://0616e29634.cbaul-cdnwnd.com/750f4cfe1c19f63e1b9a3e914b613b01/200000002-65afe66aa3/Logotipo_IFET.svg.png?ph=0616e29634" width="50"/></div> | **Tecnólogo em Análise e Desenvolvimento de Sistemas - IFSP São Carlos**<br>Curso superior focado em desenvolvimento de software, bancos de dados e construção de aplicações web e desktop. | Em curso | <div align="center"><a href="certificados/python.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6426/6426852.png" width="35"/></a></div> |
 
----
