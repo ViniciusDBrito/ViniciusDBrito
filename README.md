@@ -35,13 +35,12 @@ Passionate about backend and web development, focused on building efficient solu
 
 ---
 
-| Logo | Curso / Descrição | Certificado |
-|------|--------------------|------------|
-| <img src="assets/logo-python.png" width="60"/> | **Python Completo**<br>Fundamentos, estruturas de dados, modularização e manipulação de arquivos. | [📄 Download](certificados/python.pdf) |
-| <img src="assets/logo-c.png" width="60"/> | **Programação em C**<br>Estruturas, alocação dinâmica, ponteiros e desenvolvimento de sistemas. | [📄 Download](certificados/c.pdf) |
-| <img src="assets/logo-react.png" width="60"/> | **React e Frontend Moderno**<br>Componentização com JSX e estilização com CSS. | [📄 Download](certificados/react.pdf) |
+## 📜 Courses & Certifications
 
----
-
+| Institution | Course & Description | Certificate |
+|-------------|---------------------|------------|
+| <img src="assets/logo-python.png" width="60"/> | **Python Programming – Complete Course**<br>Fundamentals, data structures, modularization, and file handling. | [Download PDF](certificados/python.pdf) |
+| <img src="assets/logo-c.png" width="60"/> | **C Programming**<br>Structures, dynamic memory allocation, pointers, and system development. | [Download PDF](certificados/c.pdf) |
+| <img src="assets/logo-react.png" width="60"/> | **React & Modern Frontend Development**<br>Component-based architecture using JSX and CSS styling. | [Download PDF](certificados/react.pdf) |
 
 ---
