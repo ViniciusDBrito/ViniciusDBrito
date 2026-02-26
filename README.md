@@ -1,4 +1,4 @@
-**Vinicius de Brito** 
+**Vinicius de Brito**
 
 Software Developer Student - IFSP São Carlos
 
@@ -35,14 +35,11 @@ Passionate about backend and web development, focused on building efficient solu
 
 ---
 
-## Courses & Certifications
+## 📜 Courses & Certifications
 
 | Institution | Course & Description | Status | Certificate |
 |-------------|--------------------| ---------- | ------------|
-<<<<<<< HEAD
 | <div align="center"><img src="https://0616e29634.cbaul-cdnwnd.com/750f4cfe1c19f63e1b9a3e914b613b01/200000002-65afe66aa3/Logotipo_IFET.svg.png?ph=0616e29634" width="50"/></div> | **Tecnólogo em Análise e Desenvolvimento de Sistemas - IFSP São Carlos**<br>Curso superior focado em desenvolvimento de software, bancos de dados e construção de aplicações web e desktop. | Em curso | <div align="center"><a href="Icons/Atestado Matricula IFSP.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6426/6426852.png" width="35"/></a></div> |
-=======
-| <div align="center"><img src="https://0616e29634.cbaul-cdnwnd.com/750f4cfe1c19f63e1b9a3e914b613b01/200000002-65afe66aa3/Logotipo_IFET.svg.png?ph=0616e29634" width="50"/></div> | **Tecnólogo em Análise e Desenvolvimento de Sistemas - IFSP São Carlos**<br>Curso superior focado em desenvolvimento de software, bancos de dados e construção <br>de aplicações web e desktop. | Em curso | <div align="center"><a href="Icons/Atestado Matricula IFSP.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6426/6426852.png" width="35"/></a></div> |
->>>>>>> 005efe64c14b67a4cf7c12de4ef6a2d90a058811
+| <div align="center"><img src="https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/converte_png/public/media/logo/2022-03/funca%C3%A7%C3%A3o%20bradesco.png?itok=YBWQ92dj" width="50"/></div> | **Introdução à análise de dados - POWER BI - Fundação Bradesco**<br>Capacitação em fundamentos de análise e visualização de dados utilizando<br> Power BI. | Finalizado | <div align="center"><a href="Icons/Curso Power BI.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6426/6426852.png" width="35"/></a></div> |
 
 ---
