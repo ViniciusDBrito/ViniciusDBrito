@@ -10,6 +10,8 @@ Passionate about backend and web development, focused on building efficient solu
   <a href="https://www.instagram.com/vinii.brito_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=purple&color=FFFFFF"></a>
   <a href="https://www.linkedin.com/in/vinicius-brito-8177b3364/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=FFFFFF" target="_blank"></a> 
   <a href="mailto:viniciusbrito.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&color=FFFFFF"></a>
+  <a href="Icons/Currículo Vinicius de Brito.pdf" target="_blank"><img src="https://img.shields.io/badge/Currículo-FFFFFF?style=for-the-badge&logo=readme&logoColor=000000"></a>
+  
 </div>
 
 ---
